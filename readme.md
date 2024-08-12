@@ -1,7 +1,6 @@
-# vhfuvfdvfdvfd
-####vfdfvd
-олролпрорлорппро
-dfvfgndraebetnavdavbsgngnrabB
-FDGFDGSFGVFFDBFDBGBFGBNDGDHNTYTA
-###tgherofglqle;bngtrs;lbnsdz.bna.
-bybygbygbyg
+# scope -хо   дар   js
+## scope -хо  дар   js  2 намуд мешава 
+ ### 1-ум  глобалние 
+  ### 2-ум  локалние 
+
+  
